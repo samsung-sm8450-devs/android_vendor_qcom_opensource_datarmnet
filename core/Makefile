@@ -18,7 +18,6 @@ rmnet_core-y += 	rmnet_config.o \
 			rmnet_handlers.o \
 			rmnet_map_command.o \
 			rmnet_map_data.o \
-			rmnet_module.o \
 			rmnet_vnd.o \
 			dfc_qmap.c \
 			dfc_qmi.c \
